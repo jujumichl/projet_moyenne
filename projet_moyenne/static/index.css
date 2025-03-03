@@ -1,0 +1,10 @@
+html, body {
+    height: 98%;
+}
+
+form{
+    align-self:flex-end;
+    display: flex;
+    width:100%
+}
+
