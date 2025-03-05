@@ -8,3 +8,5 @@ Elle vous permettra d'installer les bonne dépendance pour le bon fonctionnement
 
 documenter.
 
+.gitignore -> mettre ce que je ne souhaite pas push
+npm install flask-socketio
