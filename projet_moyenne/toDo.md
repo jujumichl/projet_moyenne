@@ -11,7 +11,7 @@ git config --global user.email "votre-email@example.com"
 ```
 ### Génération de d'une Clé SSH :
 ```bash
-ssh-keygen -t rsa -b 4096 -C "votre-email@example.com"
+ssh-keygen -C "votre-email@example.com"
 ```
 **/!\ Une fois la clé générée, elle sera stockée dans ~/.ssh/id_rsa par défaut.**
 
