@@ -1,6 +1,3 @@
-# To do list :
-- [ ] Récupérer le message nouvelle note coté serveur
-
 # Documentation pratique github
 
 ## Configuration de git :
@@ -58,7 +55,7 @@ git branch nom_de_la_branche
 ```
 Pour l'utiliser il vous suffit d'exécuter cette commande :
 ```bash
-git checkout nom_de_la_branche
+git switch nom_de_la_branche
 ```
 Pour ajouter votre branche et les modification apportée a cette branche sur GitHub il vous suffit d'exécuter cette commande :
 
@@ -81,4 +78,3 @@ Pour les ajouter a votre branche :
 ```bash
 git push origin nom_de_la_branche
 ```
-                 
